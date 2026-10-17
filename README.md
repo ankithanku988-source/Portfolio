@@ -26,10 +26,8 @@
 ```
 d:/ankith/
 ├── index.html        # Main semantic HTML5 webpage with complete SEO and OpenGraph metadata
-├── css/
-│   └── style.css     # CSS custom properties (design tokens), light/dark themes, responsive layout, print styles
-├── js/
-│   └── main.js       # Pure vanilla JavaScript for theme toggle, mobile drawer, filtering, copy toast & resume modal
+├── style.css         # CSS custom properties (design tokens), light/dark themes, responsive layout, print styles
+├── main.js           # Pure vanilla JavaScript for theme toggle, mobile drawer, filtering, copy toast & resume modal
 └── README.md         # Documentation and deployment instructions
 ```
 
@@ -43,6 +41,6 @@ Since this project is built entirely with pure HTML, CSS, and JavaScript:
    Double-click `index.html` or open it with Google Chrome, Microsoft Edge, Mozilla Firefox, or Brave.
 
 2. **Publishing to GitHub Pages:**
-   - Initialize git in this folder or upload `index.html`, `css/`, and `js/` to your GitHub repository: [`ankithanku988-source`](https://github.com/ankithanku988-source).
+   - Initialize git in this folder or upload `index.html`, `style.css`, and `main.js` to your GitHub repository: [`ankithanku988-source`](https://github.com/ankithanku988-source).
    - Go to your repository settings -> **Pages** -> Select `main` branch `/ (root)` -> Click **Save**.
    - Your portfolio will be live at `https://ankithanku988-source.github.io/<repo-name>/`.
